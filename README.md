@@ -1,0 +1,1 @@
+I made the following qr.html file to just appear in a better way but it is just an optional process but if you don't want it don't forget to remove the line where it generates it in encoded way from the main code
